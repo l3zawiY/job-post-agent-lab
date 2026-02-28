@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Environment variables (secrets)
+.env
+
+# Personal data / generated files
+job_notes_store.json
+notes.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store

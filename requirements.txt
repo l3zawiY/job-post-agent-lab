@@ -1,0 +1,2 @@
+# minimal dependencies for step1
+claude-agent-sdk
