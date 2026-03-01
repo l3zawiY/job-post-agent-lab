@@ -1,0 +1,84 @@
+Company logo for, Sagard.
+Sagard
+
+
+Product Manager - AI Investment Solutions
+
+Toronto, ON · Reposted 13 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+
+On-site
+
+Full-time
+Apply
+
+Save
+Job match is high, we can help you stand out
+
+Your profile matches the required qualifications well.
+
+Show match details
+
+Tailor my resume
+
+Help me stand out
+
+Create cover letter
+
+
+BETA • Is this information helpful?
+
+
+
+About the job
+Sagard Overview
+
+Sagard is a multi-strategy alternative asset management firm active in venture capital, private equity, private credit, and real estate. Sagard also engages in private wealth management through Sagard Wealth.
+
+Founded in 2016 and guided by the core values of entrepreneurship, innovation, collaboration, rigour, and authenticity, Sagard has experienced strong growth. Today, the firm has more than US$32 billion under management, 190 portfolio companies, and 440 professionals.
+
+Headquartered in Canada, Sagard has offices across Canada, the United States, Europe, and the Middle East.
+
+More at https://www.sagard.com/.
+
+AI Team Mission
+
+Sagard is becoming an AI-first organisation. AI is expected to automate low-value work and materially improve how investment decisions are made.
+
+Position Overview
+
+We are hiring a product manager in our Toronto office, to lead AI and data products partnering with investment teams across strategies. You will work closely with investors, Forward Deployed Engineers (FDEs), engineering leads, and AI Enablement to translate investment needs into focused, high-impact Products. This role owns what gets built and why – not how it is engineered.
+
+This is a product role, not a project management role.
+
+Compensation Range: $130,000 to $160,000
+
+Responsibilities
+
+Own the product vision and roadmap for investment-focused AI solutions.
+Partner with investment teams to identify, structure, and prioritize high-value use cases.
+Define clear product requirements, success metrics, and acceptance criteria.
+Maintain and prioritise the product backlog, making trade-offs explicit and transparent.
+Engage with executive stakeholders on priorities, progress, and roadblocks, translating this messaging to the product development team.
+Own prioritization decisions across competing investment use cases, balancing impact, risk, and scalability.
+Set direction for FDEs and engineering leads, ensuring delivery aligns with product intent and scalability constraints.
+Ensure products align with firmwide AI standards, data governance, and security practices.
+Drive adoption by validating that products fit real investment workflows.
+Track outcomes such as usage, time saved, and decision support quality.
+
+Qualifications
+
+5+ years in product management (or equivalent product ownership) with at least 2+ years on data, analytics, or artificial intelligence products
+Strong understanding of investment research, analysis, and decision workflows, either through direct experience or sustained partnership with investment professionals.
+Ability to turn ambiguous business problems into clear product direction.
+Comfort working with technical teams without acting as a technical lead.
+Strong judgement and prioritisation skills; able to say no when needed.
+Clear, structured communication with both technical and non-technical stakeholders.
+
+Nice to Have
+
+Experience in private markets or asset management.
+Experience shipping AI-assisted workflows that moved beyond prototypes into daily use.
+Experience measuring product impact beyond delivery milestones.

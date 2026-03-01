@@ -1,0 +1,157 @@
+Accelerant
+
+
+Product Manager – Platform Intelligence, AI/ML
+
+Canada · Reposted 5 days ago · Over 100 applicants
+
+Promoted by hirer · No response insights available yet
+
+
+Remote
+
+Full-time
+Easy Apply
+
+Saved
+Job match is medium, review match details
+
+Your profile matches several of the required qualifications.
+
+Show match details
+
+Help me update my profile
+
+Tailor my resume
+
+Create cover letter
+
+
+BETA • Is this information helpful?
+
+
+
+About the job
+Product Manager –Platform Intelligence, AI/ML
+
+
+
+As Product Manager for the Platform Intelligence team at Accelerant, you will define and lead the AI/ML product strategy across the Accelerant Risk Exchange platform. You’ll work closely with Design, Engineering, and Decision Science to build tools that help participants across our platform make more informed decisions about selecting, pricing, and managing specialty insurance risk.
+
+
+
+This role sits at the intersection of data science, engineering, insurance, and product thinking - and plays a critical part in enabling Accelerant to be a product-led organization.
+
+
+
+What You'll Do
+
+
+
+Strategy & Discovery
+
+
+
+Define and evolve the AI/ML strategy for our Risk Exchange platform in alignment with company objectives.
+Identify new ways to apply statistical and machine learning models to support risk selection, pricing, aggregation monitoring, catastrophe response and portfolio management.
+Partner with Product Design and Decision Science teams to explore, test, and validate product ideas through data and user insights.
+
+
+Execution & Delivery
+
+
+
+Own the roadmap for risk scoring, aggregation monitoring, and geo-analytics tools.
+Translate model outputs into scalable product features that provide value to underwriters, capital providers, and other users of the platform.
+Prioritize and manage a clear backlog in collaboration with Engineering and technical leads, ensuring clarity of scope and alignment with team goals.
+
+
+Collaboration & Communication
+
+
+
+Work with other Product Managers and functional teams to ensure the delivery of high-quality and high-impact capabilities.
+Partner with MGA Members, Member Relationship Directors, and Risk Capital partners to deeply understand their needs and translate those into product opportunities.
+Collaborate with actuaries, underwriters, engineers, and data scientists across Accelerant to ensure solutions are feasible, scalable, and effective.
+Co-create with Product Design to shape intuitive workflows, test product concepts, and improve usability through iteration.
+Champion a culture of continuous improvement around data practices across Product & Tech and the broader organization, identifying opportunities to streamline workflows, improve quality, and support better decision-making.
+
+
+You’ll Be Successful If You Have
+
+
+
+Required:
+
+
+
+At least 5 years experience as a Product Manager delivering commercial products that leverage AI/ML or advanced analytics.
+Background in data-rich product domains, with comfort in translating technical output into user-facing tools.
+Familiarity with P&C specialty insurance, especially underwriting or portfolio management. Experience working with geo-analytics, including concepts like aggregation, map-based interfaces, weather layers and peril overlays.
+Understanding of geo-indexing (e.g., H3) and its application in insurance geo-analytics. Experience working with modern data platforms such as Snowflake.
+Strong written and verbal communication skills, especially when working across disciplines.
+Ability to work independently, navigate ambiguity, and make progress without full direction.
+
+
+Preferred:
+
+
+
+Experience with distributed teams and remote collaboration.
+Comfort working with executives and presenting product decisions clearly.
+Experience co-developing solutions with cross-functional teams through collaborative exploration and iteration.
+Familiarity with the Insurtech or Fintech space.
+
+
+You’ll thrive in this role if you: 
+
+
+
+Are energized by solving complex problems with a cross-functional team.
+Are comfortable in a fast-moving environment with changing priorities. Seek input, challenge assumptions, and welcome feedback.
+Are comfortable digging into technical details while keeping the user in focus.
+Can gain trust across the organization, even when influence is informal.
+
+
+Enjoy our comprehensive benefits package designed to meet your diverse needs and support your well-being:
+
+
+
+Work-life balance: We believe that taking time to rest and recharge makes us all better. That’s why we offer flexible time off and encourage our team to take the time they need to prioritize their health and well-being.
+
+
+
+Enjoy our comprehensive benefits package designed to meet your diverse needs and support your well-being:
+
+
+
+Health and wellness: We offer high-quality health, dental, and other benefits to ensure
+
+our team members have access to the care they need.
+
+
+
+Remote work: Work where you’re most productive and fulfilled. This position is open to remote candidates across the US, Canada, Europe and the UK, who have the flexibility to work with our teams distributed across Europe and North America. Most cross-team collaboration happens in the mornings of the Eastern Time Zone.
+
+
+
+Travel: We value face-to-face connections and believe that in-person interactions can enhance collaboration and build stronger relationships. Travel is a part of your role, with opportunities to connect with your team and our Members in-person.
+
+
+
+About Accelerant
+
+Accelerant is a services and data platform for the specialty insurance market. Our mission is to align incentives across the ecosystem. Our Risk Exchange harnesses advanced data analytics and AI to reduce information asymmetries and operational barriers. We connect expert underwriters with risk-capital partners, turning decades-old, siloed processes into data-rich insight and predictable capacity. Since we launched in 2018, our platform has grown to $3 billion+ in annual premium across 500+ niche programs and 40+ countries, all under the banner of A- (Excellent) AM Best ratings and the support of global carriers like QBE and Tokio Marine. By aligning incentives and arming specialists with real-time data, Accelerant makes it easy for small and midsize businesses to get the coverage they need to keep growing.
+
+
+
+Why Accelerant
+
+Our incredible team is united by the mission to make insurance work better — for everyone. We’re a fully remote, high-trust team where engineers, data scientists, and insurance experts work side-by-side to ship in weeks, not years. Every model trained and feature released unlocks protection for thousands of small businesses, and proves that centuries-old markets can run on modern data. We back bold ideas with meaningful equity, flexible schedules across North America and Europe, and a culture built on curiosity, autonomy, and clear results. If you love tackling hard problems, moving quickly, and seeing your work matter every day—join us.
+
+
+Requirements added by the job poster
+
+• Authorized to work in Canada
+
+• No need for visa sponsorship

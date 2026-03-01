@@ -15,3 +15,7 @@ __pycache__/
 
 # macOS
 .DS_Store
+profile.txt
+state.json
+shortlist.json
+best_job_prep.md
